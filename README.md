@@ -1,12 +1,20 @@
-<h1 align="center">hello, i'm slo, a semi-experienced developer/programmer</h1>
+<h1 align="center">🌟 SLO 🌟</h1>
 
-<h3 align="center">What languages & programs do I have experience with?</h3>
-  
-  - I have experience with Javascript, HTML, python, & lua!
-  - I commonly use Visual Studio Code for programming. I also use IDA, and x64 & x96dbg.
+**`slo#0001 (developer/programmer/content creator)`**
 
-<h6 align="center">What languages am I currently learning, and what languages do I want to learn?</h6>
-  
-  - I am currently learning & working with verse, which is Epic Games watered-down lua, used for unreal engine (for fortnite). I am making custom animations, new ways to play, custom lootpools and more! I am working with Project OGFN (a private server which hosts season 2 fortnite multiplayer) on their UEFN project, NewFN!
-  - I am learning C#.
-  - In the future, once I feel comfortable with c#, I will learn with and work with c++. 
+I'm a (mostly) self-taught programmer/developer, familiar with multiple languages and programs. I make YouTube videos and tiktoks based around cheating in various games, and I play games like CS:GO, Rainbow Six Siege, Valorant, Overwatch 2, and Fortnite. Everything I do is built from the ground up, from planning, to debugging, to publishing. I make discord bots, user friendly projects like password randomizers and basic discord bots for anyone to use! My youtube "SloTM" is where I put alot of my time and effort into aswell, as it means alot to me.
+
+
+---
+    
+### 🧰 Languages and tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+<img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=
