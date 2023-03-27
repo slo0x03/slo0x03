@@ -2,7 +2,7 @@
 
 **`slo#0001 (developer/programmer/content creator)`**
 
-I'm a (mostly) self-taught programmer/developer, familiar with multiple languages and programs. I make YouTube videos and tiktoks based around cheating in various games, and I play games like CS:GO, Rainbow Six Siege, Valorant, Overwatch 2, and Fortnite. Everything I do is built from the ground up, from planning, to debugging, to publishing. I make discord bots, user friendly projects like password randomizers and basic discord bots for anyone to use! My youtube "SloTM" is where I put alot of my time and effort into aswell, as it means alot to me.
+I'm a (mostly) self-taught programmer/developer, familiar with multiple languages and IDE's. I make YouTube videos and tiktoks based around cheating in various games, and I play games like CS:GO, Rainbow Six Siege, Valorant, Overwatch 2, and Fortnite. Everything I do is built from the ground up, from planning, to debugging, to publishing. I make discord bots, user friendly projects like password randomizers and basic discord bots for anyone to use! My youtube "SloTM" is where I put alot of my time and effort into aswell, as it means alot to me.
 
 
 ---
