@@ -15,5 +15,3 @@ I'm a (mostly) self-taught programmer/developer, familiar with multiple language
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=
