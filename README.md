@@ -1,6 +1,6 @@
 <h1 align="center">🌟 SLO 🌟</h1>
 
-**`slo#0001 (developer/programmer/content creator)`**
+**`@slotm on discord (developer/programmer/content creator)`**
 
 I'm a (mostly) self-taught programmer/developer, familiar with multiple languages and IDE's. 
 
